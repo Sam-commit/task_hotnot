@@ -1,16 +1,9 @@
 # task_hotnot
 
-A new Flutter project.
+The task was to make an app that handles incoming data from an API and make a card for data which is swipable. So i made a simple weather app which takes your current location using Geolocator package than uses it to get weather data from API. API gives current and 7 days forcast of weather which i have shown in form of swipable cards.
 
-## Getting Started
+API's used:- 
 
-This project is a starting point for a Flutter application.
+- Open Weather Api 
+- position stack Api for reverse geocoding
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
